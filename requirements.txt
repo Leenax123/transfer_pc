@@ -1,0 +1,6 @@
+typing==3.7.4.3
+sentence-transformers==3.2.1
+fastapi==0.95.1
+uvicorn==0.23.1
+pydantic==1.10.7
+pymilvus>=2.0.0
